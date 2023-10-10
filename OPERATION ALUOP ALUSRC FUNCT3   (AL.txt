@@ -1,0 +1,11 @@
+OPERATION ALUOP ALUSRC FUNCT3   (ALUOP = opcode + funct7)
+
+ADDI       00     1     000 
+ADD	   01     0     000
+SUB        10     0     000
+SLL        01     0     001
+SRL        01     0     101
+SRA        10     0     101
+XOR        01     0     100
+OR         01     0     110
+AND        01     0     111
